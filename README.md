@@ -22,7 +22,7 @@ terminal output
     > megan@0.0.0 start /Users/stevebaker/Documents/projects/javascriptProjects/NodeProjects/thenewboston-tutorials/Megan
     > node ./bin/www
 
-in browser, load  http://localhost:3000/
+in browser, enter  http://localhost:3000/
 
     GET / 200 13.267 ms - 207
     GET /stylesheets/style.css 200 6.076 ms - 111
