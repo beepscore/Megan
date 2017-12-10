@@ -29,6 +29,8 @@ in browser, enter  http://localhost:3000/
     GET /favicon.ico 404 2.158 ms - 1666
 
 ### visual studio code
+select file www
+
 menu Debug / Start debugging
 
 debug console output
