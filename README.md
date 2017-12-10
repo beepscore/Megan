@@ -26,3 +26,14 @@ terminal output
     GET /stylesheets/style.css 200 6.076 ms - 111
     GET /favicon.ico 404 2.158 ms - 1666
 
+### visual studio code
+menu Debug / Start debugging
+
+debug console output
+
+    Launch configuration created based on 'package.json'.
+    Debugging with inspector protocol because Node.js v9.2.1 was detected.
+    node --inspect-brk=25437 bin/www 
+    Debugger listening on ws://127.0.0.1:25437/cb2ef503-7224-49c0-a282-d444cf858e63
+    Debugger attached.
+
