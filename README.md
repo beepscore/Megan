@@ -44,3 +44,10 @@ debug console output
     Debugger listening on ws://127.0.0.1:25437/cb2ef503-7224-49c0-a282-d444cf858e63
     Debugger attached.
 
+### www
+uses app to create server i.e. calls createServer(app)
+
+### app.js
+sets app = express()
+app.js routes requests
+
