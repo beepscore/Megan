@@ -12,7 +12,7 @@ var about = require('./routes/about');
 var app = express();
 
 // app.locals scope is local to app. (i.e. global within app)
-app.locals.points = "8,713"
+app.locals.points = "8,713";
 // json acts like a literal for a javascript object
 app.locals.videodata = require('./data/videodata.json');
 
