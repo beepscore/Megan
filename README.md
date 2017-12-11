@@ -5,6 +5,9 @@ Do node express tutorial as a refresher.
 
 ## Node.js Tutorial for Beginners / Express 16 - 22 
 thenewboston
+### repository
+https://github.com/buckyroberts/Source-Code-from-Tutorials/tree/master/Node.js
+### youtube
 https://www.youtube.com/watch?v=WH5qsGnFkBM&index=16&list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_
 
 ## express
