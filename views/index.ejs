@@ -10,9 +10,11 @@
     <h3><%= videodata.categoryName %></h3>
 
     <ul>
-      <%  %>
-      <li>foo</li>
-      <%  %>
+
+      <% videodata.categories.forEach(function(item) { %>
+        <li><%= item.categoryName %></li>
+      <% }); %>
+
     </ul>
 
   </body>
