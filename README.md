@@ -51,3 +51,6 @@ uses app to create server i.e. calls createServer(app)
 sets app = express()
 app.js routes requests
 
+## ejs embedded javascript
+.ejs file contains html, optionally contains javascript embedded inside <%=  %>
+when using a variable, use = e.g. <%=title  %>
