@@ -3,7 +3,7 @@ Do node express tutorial as a refresher.
 
 # Reference
 
-## Node.js Tutorial for Beginners / Express 16 - 22 
+## Node.js Tutorial for Beginners / Express 16 - 22
 thenewboston
 ### repository
 https://github.com/buckyroberts/Source-Code-from-Tutorials/tree/master/Node.js
